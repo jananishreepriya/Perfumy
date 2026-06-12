@@ -2,7 +2,7 @@
 
 A responsive and visually elegant perfume brand website built during my self-learning journey. This project showcases my understanding of HTML5, CSS3, responsive web design, and modern frontend development concepts. Inspired by perfume branding websites, Perfumy focuses on clean layouts, attractive visuals, and a user-friendly browsing experience.
 
-🔗 **Live Demo:** [https://perfumy-css-html.vercel.app/](https://perfumysite.vercel.app/)
+🔗 **Live Demo:** https://perfumysite.vercel.app/
 
 📸 **Preview**
 
